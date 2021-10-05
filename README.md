@@ -15,5 +15,5 @@ the mockup
 
 ![mock](mockup.PNG)
 
-Version 1 has already been manufactured, and is currently in the firmware design stage. 
+Version 1 has already been manufactured, and is currently in the firmware design stage. The major differences in design from version 1 is that it had SMPS on th board, which has now been broken into a separate board to allow for better space usage, a smaller footprint, and better thermal design for the SMPS.
 ![actual_board](WIN_20211005_17_31_50_Pro.jpg)
