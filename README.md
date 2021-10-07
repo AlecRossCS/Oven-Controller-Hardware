@@ -1,5 +1,4 @@
 # Oven-Controller-Hardware
-
 This project is about creating a controller for a heating element for a custom designed oven. The temperature needs to be controlled with industrial precision, so this baord contains a microcontroller as well as devices needed to interact with a thermocouple to precisely sense temperature, as well as a large power mosfet, which controls the power to the heating element to control the temperature with great accuracy. 
 
 # Design
